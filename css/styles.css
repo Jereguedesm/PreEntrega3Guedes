@@ -80,6 +80,11 @@ p{
     font-size: 1.3rem;
     padding: 5px 15px 10px 20px;
 }
+.p-jus{
+    text-align: center;
+    font-size: 2rem;
+    color: #ffffff;
+}
 
 /*forms*/
 .justifying-forms{
@@ -103,6 +108,7 @@ form input{
     height: 40px;
     padding-left: 12px;
 }
+
 .submit{
     font-size: 1.6rem;
     width: 150px;
@@ -197,7 +203,7 @@ footer{
     }
 }
 @media only screen and (min-width: 768px){
-body{
+    body{
         position: relative;
         min-height: 100vh;
         display: flex;
