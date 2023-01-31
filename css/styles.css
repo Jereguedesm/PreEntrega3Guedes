@@ -85,6 +85,18 @@ p{
     font-size: 2rem;
     color: #ffffff;
 }
+.p-jus-b{
+    text-align: center;
+    font-size: 2rem;
+    color: #000000;
+}
+
+.color-acordeon{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-size: 2rem;
+}
 
 /*forms*/
 .justifying-forms{
