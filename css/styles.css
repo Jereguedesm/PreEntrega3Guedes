@@ -15,6 +15,7 @@ body{
     font-family: 'Oxygen', sans-serif;
     background-color: #151515;
     width: 100vw;
+    max-width: fit-content;
 }
 body section iframe{
     width: 100%;
@@ -79,11 +80,13 @@ p{
     color: #ffffff;
     font-size: 1.3rem;
     padding: 5px 15px 10px 20px;
+    text-align: justify;
 }
 .p-jus{
     text-align: center;
     font-size: 2rem;
     color: #ffffff;
+    text-align: justify;
 }
 .p-jus-b{
     text-align: center;
