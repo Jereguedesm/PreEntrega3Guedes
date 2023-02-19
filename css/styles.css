@@ -212,7 +212,6 @@ footer {
     min-height: 100vh;
     display: flex;
     width: 100vw;
-    max-width: -moz-fit-content;
     max-width: fit-content;
   }
   body section iframe {
@@ -388,4 +387,4 @@ footer {
     max-width: 30%;
     float: inline-end;
   }
-}/*# sourceMappingURL=styles.css.map */
+}
